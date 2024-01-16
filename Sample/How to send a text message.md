@@ -1,4 +1,5 @@
 # How to send an SMS text message
+[Jose Soto](kalgan_5@hotmail.com)
 
 ## Summary
 
@@ -41,5 +42,11 @@ Tick the **Enter** button to send the message:
 # Related material
 
 1. Send & receive text & voice messages in Google Messages: [https://support.google.com/messages/answer/6080324?hl=en](https://support.google.com/messages/answer/6080324?hl=en)
+
 2. Send photos, videos, or voice in Google Messages: [https://support.google.com/messages/answer/6080324?hl=en](https://support.google.com/messages/answer/6080324?hl=en)
+
 3. Fix problems sending, receiving, or connecting to Google Messages: [https://support.google.com/messages/answer/9077245?hl=en&ref_topic=7502602](https://support.google.com/messages/answer/9077245?hl=en&ref_topic=7502602)
+
+# Contact
+
+For any feedback, feel free to send an email to [Jose Soto](kalgan_5@hotmail.com).
