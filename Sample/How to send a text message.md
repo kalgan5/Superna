@@ -13,31 +13,31 @@ You can send messages with your Android device using the Messages app:
 
 Begin by ticking the icon in your home screen:
 
-![Location of Message app in home screen](/Home%20Screen-1.jpg)
+![Location of Message app in home screen](https://github.com/kalgan5/Superna/blob/d1cdf08a876788a8b183976d0dd5d2cf38231525/Sample/Home%20Screen-1.jpg)
 
 Android opens the Message app Home screen:
 
-![Message app home screen](/Message%20app%20--%20Home%20screen.jpg)
+![Message app home screen](https://github.com/kalgan5/Superna/blob/d1cdf08a876788a8b183976d0dd5d2cf38231525/Sample/Message%20app%20--%20Home%20screen.jpg)
 
 Tick the **Start chat** button:
 
-![Message app home screen](/Message%20app%20--%20Home%20screen-1.jpg)
+![Message app home screen](https://github.com/kalgan5/Superna/blob/d1cdf08a876788a8b183976d0dd5d2cf38231525/Sample/Message%20app%20--%20Home%20screen-1.jpg)
 
 Select the contact by ticking it on the list or by typing the name of the contact, its phone number, or email in the **To:** textbox:
 
-![Type the name of the contact, phone number, or email in the textbox](/Message%20app%20--%20Typing%20name%20of%20contact.jpg)
+![Type the name of the contact, phone number, or email in the textbox](https://github.com/kalgan5/Superna/blob/d1cdf08a876788a8b183976d0dd5d2cf38231525/Sample/Message%20app%20--%20Typing%20name%20of%20contact.jpg)
 
 Type your message using the on-screen keyboard:
 
-![Type the message with the on-screen keyboard](/Message%20app%20--%20Writing%20the%20SMS%20text%20message-1.jpg)
+![Type the message with the on-screen keyboard](https://github.com/kalgan5/Superna/blob/d1cdf08a876788a8b183976d0dd5d2cf38231525/Sample/Message%20app%20--%20Writing%20the%20SMS%20text%20message-1.jpg)
 
 You can also use your voice to produce a message:
 
-![Use the Voice Recorder to produce the message](/Message%20app%20--%20Writing%20the%20SMS%20text%20message-2.jpg)
+![Use the Voice Recorder to produce the message](https://github.com/kalgan5/Superna/blob/d1cdf08a876788a8b183976d0dd5d2cf38231525/Sample/Message%20app%20--%20Writing%20the%20SMS%20text%20message-2.jpg)
 
 Tick the **Enter** button to send the message:
 
-![Tick the Enter button to send the message](/Message%20app%20--%20Sending%20the%20SMS%20text%20message-1.jpg)
+![Tick the Enter button to send the message](https://github.com/kalgan5/Superna/blob/d1cdf08a876788a8b183976d0dd5d2cf38231525/Sample/Message%20app%20--%20Sending%20the%20SMS%20text%20message-1.jpg)
 
 # Related material
 
