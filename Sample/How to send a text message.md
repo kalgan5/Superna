@@ -13,7 +13,7 @@ You can send messages with your Android device using the Messages app:
 
 Begin by ticking the icon in your home screen:
 
-<img src="Sample/Message app -- Home screen-1.jpg" align="center" width="45%" alt="Location of Message app in home screen">
+<img src="https://github.com/kalgan5/Superna/blob/main/Sample/Message%20app%20--%20Home%20screen-1.jpg" align="center" width="45%" alt="Location of Message app in home screen">
 
 Android opens the Message app Home screen:
 
