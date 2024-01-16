@@ -13,30 +13,34 @@ You can send messages with your Android device using the Messages app:
 
 Begin by ticking the icon in your home screen:
 
-![Location of Message app in home screen](https://github.com/kalgan5/Superna/blob/d1cdf08a876788a8b183976d0dd5d2cf38231525/Sample/Home%20Screen-1.jpg)
+<img src="https://github.com/kalgan5/Superna/blob/1af48ef58d26fab3fe5efb2bf3b5534b90665119/Sample/Messages%20app%20logo.png" align="center" width="45%" alt="Location of Message app in home screen">
 
 Android opens the Message app Home screen:
 
-![Message app home screen](https://github.com/kalgan5/Superna/blob/d1cdf08a876788a8b183976d0dd5d2cf38231525/Sample/Message%20app%20--%20Home%20screen.jpg)
+<img src="https://github.com/kalgan5/Superna/blob/1af48ef58d26fab3fe5efb2bf3b5534b90665119/Sample/Messages%20app%20logo.png" align="center" width="15%" alt="Messages app logo">
+![Message app home screen]()
 
 Tick the **Start chat** button:
-
+<img src="https://github.com/kalgan5/Superna/blob/1af48ef58d26fab3fe5efb2bf3b5534b90665119/Sample/Messages%20app%20logo.png" align="center" width="15%" alt="Messages app logo">
 ![Message app home screen](https://github.com/kalgan5/Superna/blob/d1cdf08a876788a8b183976d0dd5d2cf38231525/Sample/Message%20app%20--%20Home%20screen-1.jpg)
 
 Select the contact by ticking it on the list or by typing the name of the contact, its phone number, or email in the **To:** textbox:
-
+<img src="https://github.com/kalgan5/Superna/blob/1af48ef58d26fab3fe5efb2bf3b5534b90665119/Sample/Messages%20app%20logo.png" align="center" width="15%" alt="Messages app logo">
 ![Type the name of the contact, phone number, or email in the textbox](https://github.com/kalgan5/Superna/blob/d1cdf08a876788a8b183976d0dd5d2cf38231525/Sample/Message%20app%20--%20Typing%20name%20of%20contact.jpg)
 
 Type your message using the on-screen keyboard:
 
+<img src="https://github.com/kalgan5/Superna/blob/1af48ef58d26fab3fe5efb2bf3b5534b90665119/Sample/Messages%20app%20logo.png" align="center" width="15%" alt="Messages app logo">
 ![Type the message with the on-screen keyboard](https://github.com/kalgan5/Superna/blob/d1cdf08a876788a8b183976d0dd5d2cf38231525/Sample/Message%20app%20--%20Writing%20the%20SMS%20text%20message-1.jpg)
 
 You can also use your voice to produce a message:
 
+<img src="https://github.com/kalgan5/Superna/blob/1af48ef58d26fab3fe5efb2bf3b5534b90665119/Sample/Messages%20app%20logo.png" align="center" width="15%" alt="Messages app logo">
 ![Use the Voice Recorder to produce the message](https://github.com/kalgan5/Superna/blob/d1cdf08a876788a8b183976d0dd5d2cf38231525/Sample/Message%20app%20--%20Writing%20the%20SMS%20text%20message-2.jpg)
 
 Tick the **Enter** button to send the message:
 
+<img src="https://github.com/kalgan5/Superna/blob/1af48ef58d26fab3fe5efb2bf3b5534b90665119/Sample/Messages%20app%20logo.png" align="center" width="15%" alt="Messages app logo">
 ![Tick the Enter button to send the message](https://github.com/kalgan5/Superna/blob/d1cdf08a876788a8b183976d0dd5d2cf38231525/Sample/Message%20app%20--%20Sending%20the%20SMS%20text%20message-1.jpg)
 
 # Related material
