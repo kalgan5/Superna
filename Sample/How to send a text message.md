@@ -9,7 +9,7 @@ In this document you can learn more about sending SMS messages.
 
 You can send messages with your Android device using the Messages app:
 
-![Messages app logo](/Samples/Messages%20app%20logo.png)
+![Messages app logo](https://github.com/kalgan5/Superna/blob/d1cdf08a876788a8b183976d0dd5d2cf38231525/Sample/Home%20Screen.jpg))
 
 Begin by ticking the icon in your home screen:
 
