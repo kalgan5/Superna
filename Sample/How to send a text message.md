@@ -25,7 +25,7 @@ Tick the **Start chat** button:
 
 Select the contact by ticking it on the list or by typing the name of the contact, its phone number, or email in the **To:** textbox:
 
-<center><img src="https://github.com/kalgan5/Superna/blob/e78c23d62de5338d4b14d1078c7410b6a149e469/Sample/Message%20app%20--%20Typing%20name%20of%20contact.jpg" align="center" width="15%" alt="Type the name of the contact, phone number, or email in the textbox">
+<center><img src="https://github.com/kalgan5/Superna/blob/e78c23d62de5338d4b14d1078c7410b6a149e469/Sample/Message%20app%20--%20Typing%20name%20of%20contact.jpg" align="center" width="45%" alt="Type the name of the contact, phone number, or email in the textbox">
 </center>
 
 Type your message using the on-screen keyboard:
@@ -34,11 +34,11 @@ Type your message using the on-screen keyboard:
 
 You can also use your voice to produce a message:
 
-<center><img src="https://github.com/kalgan5/Superna/blob/3455ae3f10a1e7d94a968548b60cc587275b96dc/Sample/Message%20app%20--%20Writing%20the%20SMS%20text%20message-2.jpg)" align="center" width="15%" alt="Use the Voice Recorder to produce the message])"></center>
+<center><img src="https://github.com/kalgan5/Superna/blob/3455ae3f10a1e7d94a968548b60cc587275b96dc/Sample/Message%20app%20--%20Writing%20the%20SMS%20text%20message-2.jpg)" align="center" width="45%" alt="Use the Voice Recorder to produce the message])"></center>
 
 Tick the **Enter** button to send the message:
 
-<center><img src="https://github.com/kalgan5/Superna/blob/1af48ef58d26fab3fe5efb2bf3b5534b90665119/Sample/Messages%20app%20logo.png" align="center" width="15%" alt="Tick the Enter button to send the message"></center>
+<center><img src="https://github.com/kalgan5/Superna/blob/24773a1d4ec165e8a9ed8f4cf66dbc2d404bcd92/Sample/Message%20app%20--%20Sending%20the%20SMS%20text%20message-1.jpg" align="center" width="45%" alt="Tick the Enter button to send the message"></center>
 
 # Related material
 
