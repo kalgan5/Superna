@@ -34,7 +34,7 @@ Type your message using the on-screen keyboard:
 
 You can also use your voice to produce a message:
 
-<center><img src="https://github.com/kalgan5/Superna/blob/3455ae3f10a1e7d94a968548b60cc587275b96dc/Sample/Message%20app%20--%20Writing%20the%20SMS%20text%20message-2.jpg)" align="center" width="45%" alt="Use the Voice Recorder to produce the message])"></center>
+<center><img src="https://github.com/kalgan5/Superna/blob/3455ae3f10a1e7d94a968548b60cc587275b96dc/Sample/Message%20app%20--%20Writing%20the%20SMS%20text%20message-2.jpg" align="center" width="45%" alt="Use the Voice Recorder to produce the message])"></center>
 
 Tick the **Enter** button to send the message:
 
