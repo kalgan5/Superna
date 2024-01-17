@@ -25,7 +25,7 @@ Tick the **Start chat** button:
 
 Select the contact by ticking it on the list or by typing the name of the contact, its phone number, or email in the **To:** textbox:
 
-<center><img src="https://github.com/kalgan5/Superna/blob/1af48ef58d26fab3fe5efb2bf3b5534b90665119/Sample/Messages%20app%20logo.png" align="center" width="15%" alt="Type the name of the contact, phone number, or email in the textbox">
+<center><img src="https://github.com/kalgan5/Superna/blob/e78c23d62de5338d4b14d1078c7410b6a149e469/Sample/Message%20app%20--%20Typing%20name%20of%20contact.jpg" align="center" width="15%" alt="Type the name of the contact, phone number, or email in the textbox">
 </center>
 
 Type your message using the on-screen keyboard:
