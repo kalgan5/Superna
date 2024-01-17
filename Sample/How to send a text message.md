@@ -30,7 +30,7 @@ Select the contact by ticking it on the list or by typing the name of the contac
 
 Type your message using the on-screen keyboard:
 
-<center><img src="https://github.com/kalgan5/Superna/blob/1af48ef58d26fab3fe5efb2bf3b5534b90665119/Sample/Messages%20app%20logo.png" align="center" width="45%" alt="Type the message with the on-screen keyboard"></center>
+<center><img src="https://github.com/kalgan5/Superna/blob/4b4c2fc8d5fb182b38824d18c54c61128d92cebd/Sample/Message%20app%20--%20Writing%20the%20SMS%20text%20message-1.jpg" align="center" width="45%" alt="Type the message with the on-screen keyboard"></center>
 
 You can also use your voice to produce a message:
 
